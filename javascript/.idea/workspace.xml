@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e056b563-8d95-4216-ae36-8338c71e6169" name="Default Changelist" comment="" />
+    <list default="true" id="e056b563-8d95-4216-ae36-8338c71e6169" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../python/merge_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insertion_sort.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1iu4yEpIAmkZgpKwwKJdEjiUOa1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,19 +30,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mergeSort.js" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="NodeJSConfigurationType" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/insertion_sort.js">
       <method v="2" />
     </configuration>
-    <configuration name="insertion_sort.js" type="NodeJSConfigurationType" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="insertion_sort.js" working-dir="$PROJECT_DIR$">
+    <configuration name="insertionSort.js" type="NodeJSConfigurationType" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="insertionSort.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
   </component>
@@ -46,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602744396218</updated>
-      <workItem from="1602744397326" duration="236000" />
+      <workItem from="1602744397326" duration="6495000" />
+      <workItem from="1603584157203" duration="2211000" />
     </task>
     <servers />
   </component>
@@ -54,17 +63,37 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="294" y="160" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602744489242">
+    <state x="294" y="160" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603586350070">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="294" y="160" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1680.1010/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1602744489242" />
-    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1602744466578">
+    <state x="294" y="160" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1680.1010/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1603586350070" />
+    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1602747023649">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="620" y="260" key="FileChooserDialogImpl/1680.0.1680.1010/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1602744466578" />
-    <state x="341" y="150" key="SettingsEditor" timestamp="1602744632226">
+    <state x="620" y="260" key="FileChooserDialogImpl/1680.0.1680.1010/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1602747023649" />
+    <state width="1659" height="203" key="GridCell.Tab.0.bottom" timestamp="1603586373135">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="341" y="150" key="SettingsEditor/1680.0.1680.1010/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1602744632226" />
+    <state width="1659" height="203" key="GridCell.Tab.0.bottom/1680.0.1680.1010/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1603586373135" />
+    <state width="1659" height="203" key="GridCell.Tab.0.center" timestamp="1603586373135">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="203" key="GridCell.Tab.0.center/1680.0.1680.1010/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1603586373135" />
+    <state width="1659" height="203" key="GridCell.Tab.0.left" timestamp="1603586373134">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="203" key="GridCell.Tab.0.left/1680.0.1680.1010/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1603586373134" />
+    <state width="1659" height="203" key="GridCell.Tab.0.right" timestamp="1603586373135">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="203" key="GridCell.Tab.0.right/1680.0.1680.1010/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1603586373135" />
+    <state x="682" y="39" key="SettingsEditor" timestamp="1603584444426">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="682" y="39" key="SettingsEditor/1680.0.1680.1010/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1603584444426" />
+    <state x="503" y="217" key="search.everywhere.popup" timestamp="1602751587499">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" key="search.everywhere.popup/1680.0.1680.1010/-1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1602751587499" />
   </component>
 </project>
